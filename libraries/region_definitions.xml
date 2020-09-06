@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<remove sel="/regions/region[@name='region_exploration_CL_S1']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='region_all_resources']/fields/positional[@ref='fog_outside_set4_blue_macro']"/>
+	<remove sel="/regions/region[@name='region_gas_resource_field']/fields/positional[@ref='fog_outside_set4_blue_macro']"/>
+	<remove sel="/regions/region[@name='region_gas_resource_field']/fields/nebula[@resource='hydrogen']/@ref"/>
+	<remove sel="/regions/region[@name='region_gas_resource_field']/fields/nebula[@resource='plasma']/@ref"/>
+	<remove sel="/regions/region[@name='region_gas_resource_field']/fields/nebula[@resource='ions']/@ref"/>
+	<remove sel="/regions/region[@name='region_exploration1']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration1']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_explo1_sphere']/fields/positional[@ref='fog_outside_set1_macro']"/>
+	<remove sel="/regions/region[@name='region_explo1_sphere']/fields/nebula[@ref='stonestest_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_1']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_2']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_3']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_4']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_5']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_6']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_7']/fields/positional[@ref='fog_outside_set7_macro']"/>
+	<remove sel="/regions/region[@name='region_exploration_cl_n_xtest']/fields/positional[@ref='fog_outside_set7_macro']"/>
+</diff>

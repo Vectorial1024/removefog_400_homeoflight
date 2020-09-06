@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_1441624245" name="Remove Fog: Home of Light" description="Fog in Cold Star [CS], Home of Light [HL] and Toride [TO] becomes invisible. Should improve FPS." version="101" save="false" author="Vectorial1024" date="2018-07-26" sync="false" lastupdate="1532602287">
+  <text language="86" name="去去雾气走：Home of Light" description="[CS]、[HL]及[TO]的雾气不再可见。应可提升帧率(FPS)。"/>
+  <text language="88" name="去去霧氣走：Home of Light" description="[CS]、[HL]及[TO]的霧氣不再可見。應可提升幀率(FPS)。"/>
+</content>
